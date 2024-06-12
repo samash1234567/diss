@@ -1,4 +1,4 @@
-**Project Name:** Dissertation Project - Cyber Attack Detection and Mitigation
+**Project Name:** Dissertation Project - Cyber Attack Detection and Mitigation using Python.
 
 **Project Description:**
 - Looks at system processes and filters down every system process based on a range of filter functions.
